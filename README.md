@@ -1,4 +1,4 @@
-# DIGTIAL WALLET
+# DIGITAL WALLET
 
 ## Description
 
