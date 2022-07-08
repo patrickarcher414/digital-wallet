@@ -10,3 +10,16 @@ Digital Wallet will make it easier for travelers to track their withdrawals and 
 
 * When the user reestablishes an internet connection the deposits or expenses added while they were offline are added to their transaction history and their totals are updated.
 
+## Resources
+
+### Contributors
+
+Starting code for App provided by [Xandromus](https://github.com/coding-boot-camp) at [Budget Tracker](https://github.com/coding-boot-camp/symmetrical-bassoon)
+
+### Dependencies
+
+* compression
+* express
+* mongoose
+* morgan
+
